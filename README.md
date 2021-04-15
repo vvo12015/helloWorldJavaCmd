@@ -1,5 +1,8 @@
 ﻿# ProjectSectionByFolders Branch
+ 
  [javacDoc](https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javac.html)
+---
+
 This branch describes how to compile java files when distributed by directories
 
 source code	           	-> src/java
