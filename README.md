@@ -14,10 +14,11 @@ All examples are divided into different branches of git.
 The first simple case here is to check the installation of the JDK and the actual compilation and operation of our class HelloTest.java
 
 Перший випадок найпростіший тут міститься перевірка встановлення JDK та власне компіляція та робота нашого класу HelloTest.java
+---
 
-Після того, як завантажите даний репозиторій виконайте наступні дії.
-
-1. Перейдіть у кореневий каталог.
+After downloading this repository, follow these steps.
+1. Open cmd.
+2. Navigate to the root directory of the downloaded folder.
 ```
 $ java --version
 java 15 2020-09-15
