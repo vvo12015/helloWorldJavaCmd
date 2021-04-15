@@ -3,6 +3,7 @@ The first simple case here is to
 - check the installation of the JDK 
 - compilation
 - run of our class HelloTest.java
+
 Перший випадок найпростіший тут міститься 
 - перевірка встановлення JDK
 - компіляція
@@ -11,7 +12,7 @@ The first simple case here is to
 After downloading this repository, follow these steps.
 1. Open cmd.
 2. Navigate to the root directory of the downloaded folder.
-
+```bash
 $ java --version
 java 15 2020-09-15
 Java(TM) SE Runtime Environment (build 15+36-1562)
@@ -23,4 +24,4 @@ $ java HelloTest
 Congratulation
 $ ls
 HelloTest.class  HelloTest.java  README.md
-
+```
