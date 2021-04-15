@@ -31,7 +31,9 @@ All examples are divided into different branches of git.
     * external library	      	-> lib
     * classes			              -> bin
     * test classes		         	-> test
+    
     Compile and run java files with and without libs
-	   Компіляція та запуск java файлів з та без бібліотек
+    
+    Компіляція та запуск java файлів з та без бібліотек
     
     
