@@ -20,4 +20,18 @@ All examples are divided into different branches of git.
     The first simple case here is to check the installation of the JDK and the actual compilation and operation of our class HelloTest.java
     
     Перший випадок найпростіший тут міститься перевірка встановлення JDK та власне компіляція та робота нашого класу HelloTest.java
-   
+- [ProjectSectionByFolders](https://github.com/vvo12015/helloWorldJavaCmd/tree/projectSectionByFolders#readme)
+
+    This branch describes how to compile java files when distributed by directories
+    
+    Дана гілка описує, як компілювати java файли при розподіленні по директоріях
+    
+    * source code	           	-> src/java
+    * test code   		         	-> src/test
+    * external library	      	-> lib
+    * classes			              -> bin
+    * test classes		         	-> test
+    Compile and run java files with and without libs
+	   Компіляція та запуск java файлів з та без бібліотек
+    
+    
