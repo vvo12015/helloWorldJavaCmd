@@ -14,23 +14,9 @@ All examples are divided into different branches of git.
 
 
 ---
-- SimpleProject Branch
+- [SimpleProject Branch](https://github.com/vvo12015/helloWorldJavaCmd/blob/simpleProject/README.md)
 
     The first simple case here is to check the installation of the JDK and the actual compilation and operation of our class HelloTest.java
+    
     Перший випадок найпростіший тут міститься перевірка встановлення JDK та власне компіляція та робота нашого класу HelloTest.java
-    After downloading this repository, follow these steps.
-    1. Open cmd.
-    2. Navigate to the root directory of the downloaded folder.
-    ```
-    $ java --version
-    java 15 2020-09-15
-    Java(TM) SE Runtime Environment (build 15+36-1562)
-    Java HotSpot(TM) 64-Bit Server VM (build 15+36-1562, mixed mode, sharing)
-    $ ls
-    HelloTest.java README.md
-    $ javac HelloTest.java
-    $ java HelloTest
-    Congratulation
-    $ ls
-    HelloTest.class  HelloTest.java  README.md
-   ```
+   
