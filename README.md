@@ -12,6 +12,8 @@ The first simple case here is to
 After downloading this repository, follow these steps.
 1. Open cmd.
 2. Navigate to the root directory of the downloaded folder.
+
+Після завантаження репозиторію виконуємо наступні кроки
 ```bash
 $ java --version
 java 15 2020-09-15
