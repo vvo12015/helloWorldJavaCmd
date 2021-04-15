@@ -5,19 +5,19 @@
 
 This branch describes how to compile java files when distributed by directories
 
-source code	           	-> src/java
-test code   			-> src/test
-external library		-> lib
-classes			        -> bin
-test classes		 	-> test
+* source code	           	-> src/java
+* test code   			-> src/test
+* external library		-> lib
+* classes			        -> bin
+* test classes		 	-> test
 
 Дана гілка описує, як компілювати java файли при розподіленні по директоріях
 
-вихідний код         -> src/java
-вихідний код тестів  -> src/test
-зовнішні бібліотеки  -> lib
-бінарні файли        -> bin
-бінарні тести		 -> test
+* вихідний код         -> src/java
+* вихідний код тестів  -> src/test
+* зовнішні бібліотеки  -> lib
+* бінарні файли        -> bin
+* бінарні тести		 -> test
 
 ---
 
