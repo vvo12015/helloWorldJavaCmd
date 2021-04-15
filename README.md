@@ -74,6 +74,7 @@ junit-4.12.jar
 3.1. Compile [**without libs**]
 
 Компіляція [**без бібліотек**]
+
 PowerShell
 ```
 C:\root\>javac -sourcepath src src\java\org\hello\HelloWorld.java -d bin
