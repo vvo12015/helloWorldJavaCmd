@@ -14,6 +14,9 @@ After downloading this repository, follow these steps.
 2. Navigate to the root directory of the downloaded folder.
 
 Після завантаження репозиторію виконуємо наступні кроки
+1. Відкрийте командний рядок
+2. Відкрийте кореневий каталог завантаженої директорї
+
 ```bash
 $ java --version
 java 15 2020-09-15
