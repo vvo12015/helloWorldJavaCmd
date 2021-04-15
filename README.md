@@ -27,6 +27,8 @@ In addition, the java file is in the org.hello package
 
 After loading the repository and launching cmd, follow these steps
 
+Після завантаження репозиторію та запуску cmd, виконайте наступні кроки
+
 1.  Завантаження репозиторію
 ```PowerShell
 c:\>git clone https://github.com/vvo12015/helloWorldJavaCmd.git
