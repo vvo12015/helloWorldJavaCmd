@@ -8,7 +8,7 @@ All examples are divided into different branches of git.
 Розглянуто різні випадки створення проектів.
 Всі приклади розділені по різним гілкам git.
 
-##simpleProject Branch
+## simpleProject Branch
 
 The first simple case here is to check the installation of the JDK and the actual compilation and operation of our class HelloTest.java
 
