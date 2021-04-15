@@ -1,6 +1,12 @@
 ﻿# SimpleProject
-    The first simple case here is to check the installation of the JDK and the actual compilation and operation of our class HelloTest.java
-    Перший випадок найпростіший тут міститься перевірка встановлення JDK та власне компіляція та робота нашого класу HelloTest.java
+    The first simple case here is to 
+    - check the installation of the JDK 
+    - compilation
+    - run of our class HelloTest.java
+    Перший випадок найпростіший тут міститься 
+    - перевірка встановлення JDK
+    - компіляція
+    - запуск класу HelloTest.java
     ---
     After downloading this repository, follow these steps.
     1. Open cmd.
