@@ -38,8 +38,8 @@ c:\>git checkout projectSectionByFolders
 
 	Завантаження необхідних бібліотек
 	
-*[junit-4.12.jar](https://search.maven.org/search?q=g:junit%20AND%20a:junit)
-*[hamcrest-core-1.3.jar](https://search.maven.org/search?q=g:org.hamcrest%20AND%20a:hamcrest-core)
+* [junit-4.12.jar](https://search.maven.org/search?q=g:junit%20AND%20a:junit)
+* [hamcrest-core-1.3.jar](https://search.maven.org/search?q=g:org.hamcrest%20AND%20a:hamcrest-core)
 
 >Theoretical knowledge on running tests from the command line was taken from
 
