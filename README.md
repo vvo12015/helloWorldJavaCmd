@@ -1,4 +1,10 @@
 ﻿# HelloWorldJavaCmd
+ 
+![GitHub stars](https://img.shields.io/github/followers/vvo12015?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vvo12015/helloWorldJavaCmd?style=social)
+
+
+
  [JDK Installation](https://docs.oracle.com/javase/webdesign/pubs8/im/a.gif)
  [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/tools/javac.htm#JSWOR627)
  
