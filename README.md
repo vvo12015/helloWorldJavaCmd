@@ -134,7 +134,9 @@ Time: 0,003
 OK (1 test)
 ```
 run class file
+
 запуск .class файлів
+
 WindowsTerminal
 ```
 C:\root\>java -cp ".;bin" org.hello.HelloWorld
