@@ -111,9 +111,9 @@ WindowsTerminal
 ```
 C:\root\>javac -sourcepath src 'src\java\org\hello\HelloWorld.java' -d bin
 ```
-run java class
+run test class
 
-запуск java файлів
+запуск тестів
 
 PowerShell
 ```
@@ -132,4 +132,11 @@ JUnit version 4.12
 Time: 0,003
 
 OK (1 test)
+```
+run class file
+запуск .class файлів
+WindowsTerminal
+```
+C:\root\>java -cp ".;bin" org.hello.HelloWorld
+HelloWorld!!!
 ```
