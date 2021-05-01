@@ -41,5 +41,23 @@ All examples are divided into different branches of git.
     Compile and run java files with and without libs
     
     Компіляція та запуск java файлів з та без бібліотек
+- [ProjectWithJavadoc](https://github.com/vvo12015/helloWorldJavaCmd/tree/javadocRun)
+
+   This branch describes how to run javadoc
+
+    source code -> src/java
+    test code -> src/test
+    external library -> lib
+    classes -> bin
+    test classes -> test
+    doc-files -> docs
     
     
+   Дана гілка описує, як запустити javadoc
+
+    вихідний код -> src/java
+    вихідний код тестів -> src/test
+    зовнішні бібліотеки -> lib
+    бінарні файли -> bin
+    бінарні тести -> test
+    файли документації -> docs
